@@ -1,7 +1,6 @@
 Research Scientist in Deep Learning, Computer Vision, Robotics, Self-Supervision @ Google Brain<br>
 [[LinkedIn]](https://www.linkedin.com/in/sermanet/) [[Twitter]](https://twitter.com/psermanet) [[YouTube]](https://www.youtube.com/user/nyulagr) [Email: first dot last at gmail]
 
-# Projects
 | Projects |  |
 | ------------- | ------------- |
 | <img src='docs/figs/kuka_pouring.mov.gif' width='270'>  | Time-Contrastive Networks (TCN)<br>[[Project Page]](https://sermanet.github.io/imitate/) [[ Paper ]](https://arxiv.org/abs/1704.06888) [[BibTex]](http://dblp.uni-trier.de/rec/bibtex/journals/corr/SermanetLHL17) [[ Video ]](https://www.youtube.com/watch?v=b1UTUQpxPSY) [[ Dataset ]](https://sites.google.com/site/brainrobotdata/home/multiview-pouring) [[Code]]()  |
