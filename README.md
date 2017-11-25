@@ -1,5 +1,5 @@
 Research Scientist in Deep Learning, Computer Vision, Robotics, Self-Supervision @ Google Brain<br>
-[[LinkedIn]](https://www.linkedin.com/in/sermanet/) [[Twitter]](https://twitter.com/psermanet) [[YouTube]](https://www.youtube.com/user/nyulagr) [Email: first dot last at gmail]
+[[LinkedIn]](https://www.linkedin.com/in/sermanet/) [[Twitter]](https://twitter.com/psermanet) [[YouTube]](https://www.youtube.com/user/nyulagr) [[Email: first dot last at gmail]]()
 
 | Projects |  |
 | ------------- | ------------- |
