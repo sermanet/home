@@ -8,3 +8,30 @@ table{
     border:0px solid transparent;
 }
 
+.markdown-body {
+  // Tables
+  table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+
+    th,
+    td {
+      padding: 6px 13px;
+      border: 1px solid #ff000f;
+    }
+
+    tr {
+      background-color: #ffff00;
+      border-top: 1px solid #ff00ff;
+
+      &:nth-child(2n) {
+        background-color: #ff0000;
+      }
+    }
+
+    img {
+      background-color: transparent;
+    }
+  }
+}
