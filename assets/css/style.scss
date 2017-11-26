@@ -2,12 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:0px solid transparent;
-}
-
 .markdown-body {
   // Tables
   table {
