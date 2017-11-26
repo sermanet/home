@@ -18,15 +18,15 @@ table{
     th,
     td {
       padding: 6px 13px;
-      border: 1px solid #ff000f;
+      border: 0px solid transparent;
     }
 
     tr {
-      background-color: #ffff00;
-      border-top: 1px solid #ff00ff;
+      background-color: transparent;
+      border-top: 0px solid transparent;
 
       &:nth-child(2n) {
-        background-color: #ff0000;
+        background-color: transparent;
       }
     }
 
