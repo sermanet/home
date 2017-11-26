@@ -18,5 +18,8 @@
 | <img src='docs/figs/.png' width='270'>  | **LAGR**<br> |
 | <img src='docs/figs/.png' width='270'>  | **Learning Long-Range Vision for Autonomous Off-Road Driving**<br>[[Paper]](http://www.cs.nyu.edu/~sermanet/lagr/papers/hadsell-jfr-09_wiley.pdf) [[BibTex]](https://github.com/sermanet/home/blob/master/docs/bib/Hadsell2009Learning.bib) |
 | <img src='docs/figs/.png' width='270'>  | **Collision-Free Off-Road Robot Navigation**<br>[[Paper]](https://cs.nyu.edu/~sermanet/lagr/papers/sermanet-jfr-09_wiley.pdf) [[BibTex]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2009Multirange.bib) |
-| <img src='docs/figs/.png' width='270'>  | **LAGR: maneuvers**<br> |
+| <img src='docs/figs/maneuvers.png' width='270'>  | **Learning Maneuver Dictionaries for Ground Robot Planning**<br>[[Paper]](http://yann.lecun.com/exdb/publis/pdf/sermanet-isr-08.pdf) [[BibTex]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2008Learning.bib) |
+| <img src='docs/figs/.png' width='270'>  | **LAGR: Mapping and planning under uncertainty in mobile robots with long-range perception**<br> |
+| <img src='docs/figs/.png' width='270'>  | **LAGR: Online learning for offroad robots: Using spatial label propagation to learn long-range traversability**<br> |
+| <img src='docs/figs/.png' width='270'>  | **LAGR: Deep belief net learning in a long-range vision system for autonomous off-road driving**<br> |
 | <img src='docs/figs/.png' width='270'>  | **EUROBOT**<br> |
