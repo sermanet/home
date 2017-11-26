@@ -17,6 +17,6 @@
 | <img src='docs/figs/.png' width='270'>  | **Teaching NYU Robotics class**<br> |
 | <img src='docs/figs/.png' width='270'>  | **LAGR**<br> |
 | <img src='docs/figs/.png' width='270'>  | **Learning Long-Range Vision for Autonomous Off-Road Driving**<br>[[Paper]](http://www.cs.nyu.edu/~sermanet/lagr/papers/hadsell-jfr-09_wiley.pdf) [[BibTex]](https://github.com/sermanet/home/blob/master/docs/bib/Hadsell2009Learning.bib) |
-| <img src='docs/figs/.png' width='270'>  | **LAGR: multi-range architecture**<br> |
+| <img src='docs/figs/.png' width='270'>  | **Collision-Free Off-Road Robot Navigation**<br>[[Paper]](https://cs.nyu.edu/~sermanet/lagr/papers/sermanet-jfr-09_wiley.pdf) [[BibTex]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2009Multirange.bib) |
 | <img src='docs/figs/.png' width='270'>  | **LAGR: maneuvers**<br> |
 | <img src='docs/figs/.png' width='270'>  | **EUROBOT**<br> |
