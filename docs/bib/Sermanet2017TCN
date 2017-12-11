@@ -1,0 +1,15 @@
+@article{Sermanet2017TCN,
+  author    = {Pierre Sermanet and
+               Corey Lynch and
+               Yevgen Chebotar and
+               Jasmine Hsu and
+               Eric Jang and
+               Stefan Schaal and
+               Sergey Levine},
+  title     = {Time-Contrastive Networks: Self-Supervised Learning from Video},
+  journal   = {CoRR},
+  volume    = {abs/1704.06888},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.06888},
+  biburl    = {https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2017TCN.bib},
+}
