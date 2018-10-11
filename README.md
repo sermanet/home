@@ -24,4 +24,4 @@
 | <img src='docs/figs/.png' width='270'>  | **Mapping and Planning under Uncertainty in Mobile Robots with Long-Range Perception**<br>[[ Paper ]](http://yann.lecun.com/exdb/publis/pdf/sermanet-iros-08.pdf) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Sermanet2008Mapping.bib) |
 | <img src='docs/figs/long_range.png' width='270'>  | **Deep Belief Net Learning in a Long-Range Vision System**<br>[[ Paper ]](https://cs.nyu.edu/~naz/docs/iros08.pdf) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Hadsell2008Deep.bib) |
 | <img src='docs/figs/online_learning.png' width='270'>  | **Online Learning for Offroad Robots**<br>[[ Paper ]](http://yann.lecun.com/exdb/publis/pdf/hadsell-rss-07.pdf) [[ BibTex ]](https://github.com/sermanet/home/blob/master/docs/bib/Hadsell2007Online.bib) |
-| <img src='docs/figs/robot_hangs_out2.wmv.gif' width='270'>  | **EUROBOT Competition**<br>[[ Project Page ]](http://sermanet.free.fr/robots/eurobot2004/index.html) |
+| <img src='docs/figs/robot_hangs_out2.wmv_270.gif' width='270'>  | **EUROBOT Competition**<br>[[ Project Page ]](http://sermanet.free.fr/robots/eurobot2004/index.html) |
